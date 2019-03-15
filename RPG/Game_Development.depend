@@ -1,0 +1,158 @@
+# depslib dependency file v1.0
+1551752093 source:/media/jliu234/Storage/UbuntuFILes/C++/SDL/Game_Development/main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<iostream>
+	<stdio.h>
+	<string>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<Player.h>
+
+1551667558 
+
+1551586112 image.h>
+
+1551747928 source:/media/jliu234/Storage/UbuntuFILes/C++/SDL/Game_Development/src/LTexture.cpp
+	"LTexture.h"
+	"LTexture.h"
+
+1551747928 h"
+
+1551747929 /media/jliu234/Storage/UbuntuFILes/C++/SDL/Game_Development/include/LTexture.h
+	<string>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<string>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1551747929 ttf.h>
+
+1551753083 source:d:\ubuntufiles\c++\sdl\game_development\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<Player.h>
+
+1551747928 source:d:\ubuntufiles\c++\sdl\game_development\src\ltexture.cpp
+	"LTexture.h"
+
+1551747929 d:\ubuntufiles\c++\sdl\game_development\include\ltexture.h
+	<string>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1551668170 source:d:\ubuntufiles\c++\sdl\game_development\src\player.cpp
+	"Player.h"
+
+1551667757 d:\ubuntufiles\c++\sdl\game_development\include\player.h
+	<Sprites.h>
+
+1551667757 >
+
+1551668170 source:/media/jliu234/Storage/UbuntuFILes/C++/SDL/Game_Development/src/Player.cpp
+	"Player.h"
+
+1551667757 /media/jliu234/Storage/UbuntuFILes/C++/SDL/Game_Development/include/Player.h
+	<Sprites.h>
+
+1551667558 /media/jliu234/Storage/UbuntuFILes/C++/SDL/Game_Development/include/Sprites.h
+	<LTexture.h>
+	<string>
+
+1551667758 source:/media/jliu234/Storage/UbuntuFILes/C++/SDL/Game_Development/src/Sprites.cpp
+	"Sprites.h"
+
+1551667758 "
+
+1551667558 d:\ubuntufiles\c++\sdl\game_development\include\sprites.h
+	<LTexture.h>
+	<string>
+
+1551667758 source:d:\ubuntufiles\c++\sdl\game_development\src\sprites.cpp
+	"Sprites.h"
+
+1552607481 source:/media/jliu234/Storage/UbuntuFILes/C++/SDL/Game_Development/main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<sstream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<Player.h>
+	<SDL2/SDL_thread.h>
+	<Building.h>
+	<vector>
+	<Camera.h>
+
+1552598113 /media/jliu234/Storage/UbuntuFILes/C++/SDL/Game_Development/include/Player.h
+	<Sprites.h>
+
+1551667558 /media/jliu234/Storage/UbuntuFILes/C++/SDL/Game_Development/include/Sprites.h
+	<LTexture.h>
+	<string>
+
+1552592251 /media/jliu234/Storage/UbuntuFILes/C++/SDL/Game_Development/include/LTexture.h
+	<string>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1552439499 source:/media/jliu234/Storage/UbuntuFILes/C++/SDL/Game_Development/src/LTexture.cpp
+	"LTexture.h"
+
+1552611001 source:/media/jliu234/Storage/UbuntuFILes/C++/SDL/Game_Development/src/Player.cpp
+	"Player.h"
+
+1552592396 source:/media/jliu234/Storage/UbuntuFILes/C++/SDL/Game_Development/src/Sprites.cpp
+	"Sprites.h"
+
+1552255696 source:/media/jliu234/Storage/UbuntuFILes/C++/SDL/Game_Development/src/Geometry.cpp
+	"Geometry.h"
+
+1552255680 /media/jliu234/Storage/UbuntuFILes/C++/SDL/Game_Development/include/Geometry.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1552578765 source:/media/jliu234/Storage/UbuntuFILes/C++/SDL/Game_Development/src/Buildings.cpp
+	"Buildings.h"
+
+1552578765 /media/jliu234/Storage/UbuntuFILes/C++/SDL/Game_Development/include/Buildings.h
+
+1552578853 source:/media/jliu234/Storage/UbuntuFILes/C++/SDL/Game_Development/src/Map.cpp
+	"Map.h"
+
+1552579398 /media/jliu234/Storage/UbuntuFILes/C++/SDL/Game_Development/include/Map.h
+	<vector>
+	<SDL2/SDL.h>
+	<Buildings.h>
+
+1552610462 source:/media/jliu234/Storage/UbuntuFILes/C++/SDL/Game_Development/src/Camera.cpp
+
+1552610455 /media/jliu234/Storage/UbuntuFILes/C++/SDL/Game_Development/include/Camera.h
+	<SDL2/SDL.h>
+	<Player.h>
+
+1552600192 /media/jliu234/Storage/UbuntuFILes/C++/SDL/Game_Development/include/Building.h
+	<SDL2/SDL.h>
+	<LTexture.h>
+
+1552592046 source:/media/jliu234/Storage/UbuntuFILes/C++/SDL/Game_Development/src/Building.cpp
+	"Building.h"
+
+1552609552 source:/media/jliu234/Storage/UbuntuFILes/C++/SDL/Game_Development/src/TmxParser.cpp
+	"TmxParser.h"
+
+1552609552 /media/jliu234/Storage/UbuntuFILes/C++/SDL/Game_Development/include/TmxParser.h
+
