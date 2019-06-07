@@ -1,0 +1,4 @@
+-makesure to have pygame installed 
+
+1. double click network file first
+2. right after click client file.
