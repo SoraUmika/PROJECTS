@@ -1,0 +1,189 @@
+.content-wrapper {
+	width:1360px;
+	margin:0 auto;
+	display:block;
+}
+
+#cheif_recomend {
+	display:table;
+	content:"";
+	clear:both;
+	overflow:hidden;
+}
+
+.cheif-recommend-module {
+	padding-bottom:30px;
+}
+
+.carousel-box {
+	width:440px;
+	height:220px;
+	float:left;
+}
+
+.recommend-module {
+	height:220px;
+	position:relative;
+	overflow:hidden;
+	display:table;
+	content:"";	
+}
+
+.home-card {
+	float:left;
+	margin: 0 0 20px 20px;
+	width:210px;
+	height:100px;
+	position:relative;
+	overflow:hidden;
+	border-radius:4px;
+	background:white;
+}
+
+.home-promotion {
+	padding-bottom:15px;
+	content:"";
+	display:table;
+	clear:both;
+	overflow:hidden;
+}
+
+.l-con {
+	width:800px;
+	float:left;
+	border-right:2px solid #e8e8e8;	
+}
+
+.r-con {
+	width:500px;
+	float:right;
+	padding-right:15px;
+}
+
+.promotion-box {
+	height:160px;
+}
+
+.name {
+	font-size:24px!important;
+	line-height:24px;
+	font-weight:400;
+	margin-right:20px;
+	float:left;
+}
+
+.spread-module {
+	position:relative;
+	width:160px;
+	height:148px;
+	font-size:12px;
+	overflow:hidden;
+	float:left;
+}
+
+.expand-spread-module {
+	position:relative;
+	width:200px;
+	height:160px;
+	float:left;
+}
+
+.expand-spread-img {
+	width:400	px;
+	height:150px;
+	float:center;
+}
+
+.promotion-headline {
+	height:45px;
+	float:left;
+	padding:0 0 15px;
+	width:720px;
+}
+
+.pic {
+	width:160px;
+	height:100px;
+}
+
+.pic-promotion {
+}
+
+.JiliJili-live {
+	padding-bottom:30px;
+}
+
+.promotion-header {
+	height:50px;
+}
+
+.promotion-text {
+	font-size:30px;
+	font-family:arial;
+	text-decoration:underline;	
+	font-style:italic;
+	color:black;
+}
+.live-module {
+	display:table;
+	content:"";
+	clear:both;
+	overflow:hidden;
+}
+
+.promotion-banner {
+	width:1350px;
+	height:230px;
+	margin-bottom:20px;
+	position:relative;
+	border-radius:5px;
+	padding-bottom:15px;
+}
+
+.promotion-banner-img {
+	width:1350px;
+	height:230px;
+	position:relative;
+	border-radius:15px;
+}
+
+.zone-title {
+	padding-right:20px;
+	padding-bottom:15px;
+}	
+
+.zone-head-line {
+	padding:0 0 15px;
+}
+
+.JiliJili-movies {
+	padding-bottom:30px;
+}
+
+.JiliJili-music {
+	padding-bottom:30px;
+}
+
+.JiliJili-art {
+	padding-bottom:30px;
+}
+
+.JiliJili-life {
+	padding-bottom:30px;
+}
+
+.JiliJili-fashion {
+	padding-bottom:30px;
+}
+
+.JiliJili-science {
+	padding-bottom:30px;
+}
+
+.JiliJili-literature {
+	padding-bottom:30px;
+}
+
+.JiliJili-news {
+	padding-bottom:30px;
+}
