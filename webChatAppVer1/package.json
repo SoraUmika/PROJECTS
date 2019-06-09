@@ -1,0 +1,36 @@
+{
+  "name": "reactwebpacktstester",
+  "version": "1.0.0",
+  "description": "tester",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^3.9.3",
+    "@types/react": "^16.8.10",
+    "@types/react-dom": "^16.8.3",
+    "@types/react-redux": "^7.0.1",
+    "@types/remote-redux-devtools": "^0.5.3",
+    "@types/socket.io-client": "^1.4.32",
+    "lodash": "^4.17.11",
+    "net": "^1.0.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-redux": "^6.0.1",
+    "redux": "^4.0.1",
+    "socket.io": "^2.2.0",
+    "socket.io-client": "^2.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.19",
+    "awesome-typescript-loader": "^5.2.1",
+    "redux-devtools-extension": "^2.13.8",
+    "remote-redux-devtools": "^0.5.16",
+    "source-map-loader": "^0.2.4",
+    "typescript": "^3.2.4",
+    "webpack-cli": "^3.2.1"
+  }
+}
