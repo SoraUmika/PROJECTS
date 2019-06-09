@@ -1,0 +1,22 @@
+{
+	"name": "chaosequation",
+	"version": "1.0.0",
+	"description": "chaos equation plotter",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "concurrently \"browser-sync start --server -w\" \" tsc --watch\""
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@types/mathjs": "^5.0.1",
+		"@types/node": "^11.13.8",
+		"@types/p5": "^0.7.2",
+		"browser-sync": "^2.26.5",
+		"concurrently": "^4.1.0"
+	},
+	"repository": {
+		"url": "https://github.com/Pucaet/recursive-parametric-plotter"
+	}
+}
